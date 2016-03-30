@@ -1,0 +1,4 @@
+2016/03/30   NewsListView中
+   listView已经增加了两个头布局，在调用listView的onItemClickLisenter方法时如何让position仍然保持
+   从0开始
+

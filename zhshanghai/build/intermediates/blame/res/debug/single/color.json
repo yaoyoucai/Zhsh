@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\color\\text_guide_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\color\\text_guide_selector.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\color\\text_menu_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\color\\text_menu_selector.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\color\\text_buttom_tag_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\color\\text_buttom_tag_selector.xml"
+    }
+]

@@ -1,0 +1,3 @@
+include ':slidingMenuLibrary'
+include ':viewpagerIndicatorLibrary'
+include ':zhshanghai'

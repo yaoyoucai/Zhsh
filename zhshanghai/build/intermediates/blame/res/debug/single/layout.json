@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sliding_menu.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\fragment_sliding_menu.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_menu_detail_news.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\pager_menu_detail_news.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\listview_refresh_header.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\listview_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\pager_table_detail.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\pager_table_detail.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\base_pager_content.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\base_pager_content.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\itemlist_news_detail.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\itemlist_news_detail.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\slidingMenuLibrary\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\title_bar.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\fragment_content.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\listview_refresh_footer.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\listview_refresh_footer.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\itemlist_sliding_menu.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\itemlist_sliding_menu.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\listview_header.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_menu.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\sliding_menu.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

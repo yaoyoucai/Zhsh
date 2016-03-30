@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zhsh.iml" filepath="$PROJECT_DIR$/Zhsh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenuLibrary/slidingMenuLibrary.iml" filepath="$PROJECT_DIR$/slidingMenuLibrary/slidingMenuLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerIndicatorLibrary/viewpagerIndicatorLibrary.iml" filepath="$PROJECT_DIR$/viewpagerIndicatorLibrary/viewpagerIndicatorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhshanghai/zhshanghai.iml" filepath="$PROJECT_DIR$/zhshanghai/zhshanghai.iml" />
+    </modules>
+  </component>
+</project>

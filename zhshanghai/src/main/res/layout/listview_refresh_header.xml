@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:layout_gravity="center"
+        android:paddingTop="5dp" >
+
+        <ImageView
+            android:id="@+id/iv_refresh_header"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_marginLeft="40dp"
+            android:src="@mipmap/common_listview_headview_red_arrow" >
+        </ImageView>
+
+        <ProgressBar
+            android:id="@+id/pb_refresh_header"
+            android:layout_width="wrap_content"
+            android:indeterminateDrawable="@drawable/shape_refresh_header"
+            android:layout_marginLeft="25dp"
+            android:visibility="invisible"
+            android:layout_height="100dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_alignBottom="@+id/pb_refresh_header"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/pb_refresh_header"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_refresh_header_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="下拉刷新"
+                android:textColor="#f00"
+                android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/tv_refresh_header_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="2015 08 08 08 "
+                android:textSize="18sp"
+                android:textColor="#a000" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

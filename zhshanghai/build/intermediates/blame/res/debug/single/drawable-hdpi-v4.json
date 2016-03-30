@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_red_pressed.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable-hdpi\\button_red_pressed.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanghai.jpg",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable-hdpi\\icon_shanghai.jpg"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_tab_item_bg_select.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable-hdpi\\news_tab_item_bg_select.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_dialog_bg.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable-hdpi\\progress_dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_item_bg_select.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable-hdpi\\menu_item_bg_select.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_red_normal.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable-hdpi\\button_red_normal.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    }
+]

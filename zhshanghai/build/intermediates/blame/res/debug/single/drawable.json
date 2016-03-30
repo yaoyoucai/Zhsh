@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_govaffairs_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\btn_govaffairs_selector.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_news_center_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\btn_news_center_selector.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_refresh_header.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\shape_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_smart_service_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\btn_smart_service_selector.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_home_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\btn_home_selector.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circle_default.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\shape_circle_default.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\sliding_menu_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\sliding_menu_selector.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circle_selected.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\shape_circle_selected.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_guide_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\btn_guide_selector.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\exploded-aar\\Zhsh\\viewpagerIndicatorLibrary\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_setting_selector.xml",
+        "source": "E:\\javasoft\\AndroidStudioProjects\\Zhsh\\zhshanghai\\src\\main\\res\\drawable\\btn_setting_selector.xml"
+    }
+]
